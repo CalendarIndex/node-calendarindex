@@ -1,0 +1,29 @@
+{
+  "name": "node-calendarindex",
+  "version": "1.0.0",
+  "description": "Node.js library for CalendarIndex Holiday API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calendarindex/node-calendarindex.git"
+  },
+  "keywords": [
+    "holiday",
+    "holidays",
+    "calendarindex",
+    "dates",
+    "calendar"
+  ],
+  "author": "CalendarIndex Team <info@calendarindex.com> (https://www.calendarindex.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://www.calendarindex.com"
+  },
+  "homepage": "https://www.calendarindex.com",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
